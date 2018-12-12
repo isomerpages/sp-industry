@@ -1,0 +1,38 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Work with our students
+  url: /left-nav-one/sub-page-A/
+  sub-links:
+  - title: Internship Guidelines
+    url: /left-nav-one/internship-guidelines/
+  - title: Internership Request
+    url: /left-nav-one/internship-request/
+  - title: Spring STP Grant
+    url: /left-nav-one/spring-stp-grant/
+  - title: Insurance
+    url: /left-nav-one/insurance/
+  - title: For Students
+    url: /left-nav-one/for-students/
+- title: Work with Us
+  url: /left-nav-two/sub-page-C/
+  sub-links:
+  - title: Industry on Campus
+    url: /left-nav-two/industry-on-campus/
+  - title: Consultancy Services
+    url: /left-nav-two/consultancy-services/
+  - title: Technological Expertise
+    url: /left-nav-two/technological-expertise/
+  - title: Entrepreneurship
+    url: /left-nav-two/entrepreneurship/
+  - title: User Experience Centre
+    url: /left-nav-two/ux-centre/
+  - title: Other Expertise
+    url: /left-nav-two/other-expertise/
+  - title: Industry Info Kit
+    url: /left-nav-two/industry-info-kit/
+- title: Contact Us
+  url: /contact-us/
