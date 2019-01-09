@@ -6,7 +6,7 @@ breadcrumb: Internship Guidelines
 collection_name: left-nav-one
 ---
 
-#### ROLE OF COMPANY
+#### ROLE OF COMPANIES
 1. Singapore Polytechnic (SP) looks forward to collaborating with companies in providing internship opportunities to our students.
 
 2. Internship aims to let students learn through meaningful work assignments and industry exposure to deepen and apply both technical and soft skills, and help them make better career choices.
